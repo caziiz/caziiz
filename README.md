@@ -2,7 +2,7 @@
 
 Junior Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=caziiz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=caziiz&theme=light)](https://git.io/streak-stats)
 
 - 🔭 I'm currently working on **Car_Rental_System**
 - 🌱 I'm currently learning **PostgreSql And SpringBoot**
