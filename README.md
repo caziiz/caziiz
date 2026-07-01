@@ -9,7 +9,5 @@ Junior Developer
 - 💬 Ask me about **Front-End**
 - 📫 How to reach me **Casiisc608@gmail.com**
 
-
-- ![My Skills]
--
-- (https://skillicons.dev/icons?i=react,js,html,css,tailwind,dotnet,csharp,postgresql,mysql,docker,git,github,vercel,figma)
+"My Skills"
+- ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,dotnet,csharp,postgresql,mysql,docker,git,github,vercel,figma)
