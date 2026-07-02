@@ -4,9 +4,9 @@ Junior Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=caziiz&theme=light)](https://git.io/streak-stats)
 
-- 🔭 I'm currently working on [https://car-rental-system-frontend-woad.vercel.app/login](https://car-rental-system-frontend-woad.vercel.app)
+- 🔭 I Recently Finished Working On [https://car-rental-system-frontend-woad.vercel.app/login](https://car-rental-system-frontend-woad.vercel.app)
 - 🌱 I'm currently learning **PostgreSql And SpringBoot**
-- 💬 Ask me about **Front-End**
+- 💬 Ask me about **Front-End & Back-End**
 - 📫 How to reach me **Casiisc608@gmail.com**
 
 **My Skills**
