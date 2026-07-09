@@ -4,6 +4,8 @@ Junior Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=caziiz&theme=light)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=caziiz&style=for-the-badge&label=Profile+views)
+
 - 🔭 I Recently Finished Working On [https://car-rental-system-frontend-java.vercel.app](https://car-rental-system-frontend-java.vercel.app)
 - 🌱 I'm currently learning **postgreSql And SpringBoot**
 - 💬 Ask me about **Front-End & Back-End**
