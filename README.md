@@ -2,7 +2,6 @@
 
 Junior Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=caziiz&theme=light&v=2)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=caziiz&style=for-the-badge&label=Profile+views)
 
