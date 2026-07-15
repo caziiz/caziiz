@@ -12,5 +12,5 @@ Junior Developer
 - 💬 Ask me about **Front-End & Back-End**
 - 📫 How to reach me **Casiisc608@gmail.com**
 
-**My Skills**
+**My Skills as IT studen**
 - ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,dotnet,csharp,postgresql,mysql,docker,git,github,vercel,figma)
