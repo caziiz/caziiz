@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdiasis Mohamed Abdi
+# Hi 👋, I'm Abdiaziz Mohamed Abdi
 
 Junior Developer
 
